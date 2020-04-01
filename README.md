@@ -30,6 +30,11 @@ C) What is the basic loss function of GAN? And how optimal solution is achieved?
 
 D) What is training process of basic GAN?
 
+### Architecture of Hidden Layers of Generator and Discriminator
+
+![Untitled](https://user-images.githubusercontent.com/55847142/78151898-02f43600-7431-11ea-973a-9794f05dc0ee.png)
+
+
 ## Built With
 
 * Queen Mary University of London - Deep Learning Asssignment
