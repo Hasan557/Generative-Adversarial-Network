@@ -34,6 +34,9 @@ D) What is training process of basic GAN?
 
 ![Untitled](https://user-images.githubusercontent.com/55847142/78151898-02f43600-7431-11ea-973a-9794f05dc0ee.png)
 
+### Epoch
+
+In this exercise, there are 10 Epochs conducted. You can increase the number of epochs in your experiment
 
 ## Built With
 
